@@ -1,0 +1,4 @@
+[submodule "treble_experimentations"]
+	path = treble_experimentations
+	url = https://github.com/TrebleDroid/treble_experimentations.git
+	branch = master
